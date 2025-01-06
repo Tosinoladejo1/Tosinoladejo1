@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI/ML projects, especially those involving deep learning, natural language processing, and computer vision
 - 📫 How to reach me tosinoladejom@gmail.com | www.linkedin.com/in/mercy-oladejo
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love thinking
 
 <!---
 Tosinoladejo1/Tosinoladejo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
